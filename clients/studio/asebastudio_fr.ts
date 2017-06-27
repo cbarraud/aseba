@@ -6,7 +6,7 @@
     <message>
         <location filename="AeslEditor.cpp" line="492"/>
         <source>Clear breakpoint</source>
-        <translation>Enlever le point d&apos;arrêt</translation>
+        <translation>Virer le point d&apos;arrêt</translation>
     </message>
     <message>
         <location filename="AeslEditor.cpp" line="494"/>
